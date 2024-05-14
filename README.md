@@ -18,7 +18,7 @@ The project was created in Type Script + Vite
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/yourusername/sandwich-configurator.git
+    git clone git@github.com:merlion-local/Sandwich.git
     ```
 2. **Navigate to the project directory**:
     ```sh
