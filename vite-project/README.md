@@ -1,6 +1,7 @@
 # Sandwich Configurator
 
 This project is a simple React component that allows users to configure their sandwich by adding different ingredients. The component provides a visual and interactive way to build a sandwich using buttons to add various ingredients like bread, cheese, salami, and salad. Users can also reset the sandwich to start over.
+The project was created in Type Script + Vite
 
 ## Table of Contents
 
@@ -14,14 +15,17 @@ This project is a simple React component that allows users to configure their sa
 
 
 ## Installation
+In order to open the project we need VScode
+
+The following commands are entered into the terminal
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/yourusername/sandwich-configurator.git
+    git clone git@github.com:merlion-local/Sandwich.git
     ```
 2. **Navigate to the project directory**:
     ```sh
-    cd sandwich-configurator
+    cd vite-project
     ```
 3. **Install the dependencies**:
     ```sh
@@ -30,12 +34,18 @@ This project is a simple React component that allows users to configure their sa
 
 ## Usage
 
+The following commands are entered into the terminal
+
 To run the project locally, use the following command:
 ```sh
 npm run dev
-
-This will start the development server and open the project in your default web browser. You can then interact with the Sandwich Configurator on http://localhost:3000.
 ```
+
++ This will start the development server and open the project in your default web browser. You can then interact with the Sandwich Configurator on http://localhost:3000.
+
++ Now that the project is open in the browser, we click on the Sandwich component
+
+
 # Component Details
 
 ### State Management
