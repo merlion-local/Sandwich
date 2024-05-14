@@ -15,6 +15,9 @@ The project was created in Type Script + Vite
 
 
 ## Installation
+In order to open the project we need VScode
+
+The following commands are entered into the terminal
 
 1. **Clone the repository**:
     ```sh
@@ -22,7 +25,7 @@ The project was created in Type Script + Vite
     ```
 2. **Navigate to the project directory**:
     ```sh
-    cd sandwich-configurator
+    cd vite-project
     ```
 3. **Install the dependencies**:
     ```sh
@@ -31,12 +34,17 @@ The project was created in Type Script + Vite
 
 ## Usage
 
+The following commands are entered into the terminal
+
 To run the project locally, use the following command:
 ```sh
 npm run dev
 
 This will start the development server and open the project in your default web browser. You can then interact with the Sandwich Configurator on http://localhost:3000.
+
+Now that the project is open in the browser, we click on the Sandwich component
 ```
+
 # Component Details
 
 ### State Management
