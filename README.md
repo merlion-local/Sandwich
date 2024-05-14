@@ -40,13 +40,11 @@ To run the project locally, use the following command:
 ```sh
 npm run dev
 ```
-```
-This will start the development server and open the project in your default web browser. You can then interact with the Sandwich Configurator on http://localhost:3000.
-```
 
-```
-Now that the project is open in the browser, we click on the Sandwich component
-```
++ This will start the development server and open the project in your default web browser. You can then interact with the Sandwich Configurator on http://localhost:3000.
+
++ Now that the project is open in the browser, we click on the Sandwich component
+
 
 # Component Details
 
