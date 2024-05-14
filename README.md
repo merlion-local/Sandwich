@@ -1,6 +1,7 @@
 # Sandwich Configurator
 
 This project is a simple React component that allows users to configure their sandwich by adding different ingredients. The component provides a visual and interactive way to build a sandwich using buttons to add various ingredients like bread, cheese, salami, and salad. Users can also reset the sandwich to start over.
+The project was created in Type Script + Vite
 
 ## Table of Contents
 
