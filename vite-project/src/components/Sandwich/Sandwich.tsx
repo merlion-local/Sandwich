@@ -39,7 +39,7 @@ export default function Sandwich(): JSX.Element {
         <button type="button" className={style.btn} onClick={handleAddSalami}>
           Add salami😌
         </button>
-        <button type="button" className={style.btn} onClick={handleAddSalat}>
+        <button type="button" className={style.btn} onClick={handleAddSalad}>
           Add salad😒
         </button>
         <button type="button" className={style.btn} onClick={handlAddClear}>
