@@ -91,7 +91,7 @@ function handleAddSalami(): void {
 
    - handleAddSalat: Adds salad to the sandwich.
  ```typescript
-function handleAddSalat(): void {
+function handleAddSalad(): void {
   setSandwich(`${sandwich} salad 🥗`);
 }
 ```
@@ -136,7 +136,7 @@ function handlAddClear(): void {
 <button type="button" className={style.btn} onClick={handleAddSalami}>
   Add salami 😌
 </button>
-<button type="button" className={style.btn} onClick={handleAddSalat}>
+<button type="button" className={style.btn} onClick={handleAddSalad}>
   Add salad 😒
 </button>
 <button type="button" className={style.btn} onClick={handlAddClear}>
